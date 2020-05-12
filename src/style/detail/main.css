@@ -1,0 +1,8 @@
+@import "./nav.css";
+@import "../common.css";
+@import "../home/footer.css";
+
+header {
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,11 @@
+.header__container {
+    height: 100%;
+    width: 100%;
+    transition: background 1s;
+}
+
+.slide {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(52, 73, 94,.8);
+}
